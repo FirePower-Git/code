@@ -9,6 +9,7 @@ import javax.imageio.ImageIO;
 public class AI {
 	
 	public static BufferedImage[] images = new BufferedImage[200];
+	public static float[] coefs;
 	
 	public static void init() {
 		
@@ -22,7 +23,7 @@ public class AI {
 			}
 	}
 	
-	public static void AI() {
+	public static void process() {
 		
 	}
 	
