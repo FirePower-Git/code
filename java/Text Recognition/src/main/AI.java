@@ -27,4 +27,8 @@ public class AI {
 		
 	}
 	
+	public static void learn(BufferedImage image) {
+		
+	}
+	
 }
