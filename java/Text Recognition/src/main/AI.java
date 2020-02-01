@@ -23,11 +23,11 @@ public class AI {
 			}
 	}
 	
-	public static void process() {
+	public static void process(BufferedImage image) {
 		
 	}
 	
-	public static void learn(BufferedImage image) {
+	public static void learn() {
 		
 	}
 	
